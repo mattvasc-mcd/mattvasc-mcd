@@ -1,4 +1,12 @@
-### Hi there 👋
+[![Years Badge](https://badges.pufler.dev/years/mattvasc-mcd)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/mattvasc-mcd/mattvasc-mcd)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/mattvasc-mcd)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/mattvasc-mcd)](https://badges.pufler.dev)
+
+
+
+
+
 
 <!--
 **mattvasc-mcd/mattvasc-mcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
