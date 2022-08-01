@@ -1,7 +1,7 @@
-[![Years Badge](https://badges.pufler.dev/years/mattvasc-mcd)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/mattvasc-mcd/mattvasc-mcd)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/mattvasc-mcd)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/mattvasc-mcd)](https://badges.pufler.dev)
+[![Years Badge](https://badges.strrl.dev/years/mattvasc-mcd)](https://github.com/STRRL/serverless-github-badges)
+[![Visits Badge](https://badges.strrl.dev/visits/mattvasc-mcd/mattvasc-mcd)](https://github.com/STRRL/serverless-github-badges)
+[![Repos Badge](https://badges.strrl.dev/repos/mattvasc-mcd)](https://github.com/STRRL/serverless-github-badges)
+[![Commits Badge](https://badges.strrl.dev/commits/yearly/mattvasc-mcd)](https://github.com/STRRL/serverless-github-badges)
 
 
 
